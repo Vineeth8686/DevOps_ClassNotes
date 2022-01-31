@@ -315,10 +315,14 @@ OR
 
 In network you will see netwrok to be overlay1
 
+------------
+Promote worker node As a manager
+# docker node ls
+# docker node promote WORKER1
 
+Node worker1 promoted to manager in the Swarm
 
-
-
+# docker node ls
 
 
 
